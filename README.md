@@ -1,6 +1,6 @@
 # covid19-tweet-classification-hackathon
 
-Solution to COVID-19 Tweet Classification Challenge by #ZindiWeekendz
+Solution to COVID-19 Tweet Classification [Challenge](https://zindi.africa/hackathons/covid-19-tweet-classification-challenge) by #ZindiWeekendz
 
 **rank: 28 / 216**
 
