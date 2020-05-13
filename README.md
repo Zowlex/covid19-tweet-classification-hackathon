@@ -9,7 +9,7 @@ The objective of this challenge is to develop a machine learning model to assess
 
 ## Solution:
 I used a single finetuned BERT model which scored:
-  - 0.187403469278453 on PL
+  - 0.187403469278453 private LB
   
 ## Acknowledgments:
 I'm new to NLP and Competitive Data Science in general and this wouldn't have been made possible without this amazing source:
